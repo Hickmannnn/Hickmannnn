@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Matheus Hickmann.
 
-👨‍💻 Computer Science Student at IFFAR / FW
-🎯 Future professional web developer
+👨‍💻 Computer Science Student at IFFAR / FW     
+🎯 Future professional web developer     
 💻 Skills: HTML | CSS | JavaScript | GSAP | UX & UI Design
 
 ## 📫 Contact
