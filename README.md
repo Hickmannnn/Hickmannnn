@@ -68,6 +68,13 @@
 />
 <img 
     align="left" 
+    alt="C" title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+/>
+<img 
+    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
@@ -100,6 +107,14 @@
 />
 <img 
     align="left" 
+    alt="GSAP"
+    title="GSAP" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/gsap/0AE448" 
+/>
+<img 
+    align="left" 
     alt="MySQL" 
     title="MySQL"
     width="30px" 
@@ -113,14 +128,6 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="GSAP"
-    title="GSAP" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.simpleicons.org/gsap/0AE448" 
 />
 <br>
 <br>
