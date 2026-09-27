@@ -32,7 +32,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <img 
     align="left" 
@@ -76,8 +76,8 @@
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
+    alt="jQuery" 
+    title="jQuery"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
@@ -96,7 +96,7 @@
     title="Three.js" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" 
+    src="https://cdn.simpleicons.org/three.js/FFFFFF" 
 />
 <img 
     align="left" 
@@ -127,7 +127,7 @@
 
 ---
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
@@ -135,14 +135,13 @@
     alt="GitHub Stats" 
     height="200px" 
     style="padding-right: 10px;" 
-    src="https://github-stats-extended.vercel.app/api?username=Hickmannnn&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-stats-extended.vercel.app/api?username=Hickmannnn&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
  
   <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="Top Languages" 
       height="200px" 
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hickmannnn&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hickmannnn&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 </p>
-
